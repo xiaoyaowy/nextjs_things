@@ -22,7 +22,7 @@ const Dashboard = () => {
                         </div>
                         <div>
                             <p className="text-sm font-medium">CPU 使用率:</p>
-                            <p className="text-lg">30%</p>
+                            <p className="text-lg">50%</p>
                         </div>
                     </div>
                 </div>
